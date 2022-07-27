@@ -88,7 +88,7 @@ label{
 }
 .granimagenes2{
 	display: table;
-	margin-left: 17%;
+	margin-left: 12%;
 	margin-top: 4%;
 }
 .textop1{
@@ -128,6 +128,7 @@ label{
 .cajas2{
 	margin-bottom: 5%;
     margin-top: 5%;
+	width: 310px;
 }
 form{
 	margin-left: 2%;
