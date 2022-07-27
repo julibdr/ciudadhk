@@ -41,13 +41,13 @@ display: none;
 	margin-left:9px;
 }
 
-span#cerrar{
-	display:block;
+#cerrar{
 	background-image: url("../imagenes/cruz.png");
 	background-repeat: no-repeat;
 	width: 36px;
 	height: 36px; 
-	font-size: 0;
+	display:inline-block;
+	text-align: center;
 }
 .imagen{
 	display: none;
@@ -66,9 +66,7 @@ header {
 	margin-left: 15%;
     display: inline-block;
     margin-bottom: 10%;
-    margin-top: 10%;
-    float: revert;
-	
+    margin-top: 10%;	
 }
 .ultimotextoindex{
 width: auto;
@@ -121,7 +119,6 @@ label{
     display: inline-block;
     margin-bottom: 10%;
     margin-top: 10%;
-    float: revert;
 }
 
 .texto{
