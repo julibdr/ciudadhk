@@ -1,0 +1,173 @@
+body {
+    background-image:none;
+  }
+.grandiv {
+    width: 100%;
+    padding: 1%;
+    background-color: white;
+  }
+a{
+	width:200px; 
+	margin-top:10px;
+	margin-left:0px;
+	
+}
+nav{
+	width: 200px;
+}
+
+#mytopnav:target{
+	display:block;
+	}
+
+#mytopnav li {
+    padding: 10px;
+    margin: 5px;
+}
+#mytopnav2 ul{
+display: none;
+    width: 200px;
+    margin-top: 10px;
+    margin-left: 0px;
+}
+#menu{
+	background-image: url("../imagenes/menu.png");
+	background-repeat: no-repeat;
+	width: 36px; 
+	height: 36px;
+	display:inline-block;
+	font-size:0;
+	margin-top:0px; 
+	margin-left:9px;
+}
+
+span#cerrar{
+	display:block;
+	background-image: url("../imagenes/cruz.png");
+	background-repeat: no-repeat;
+	width: 36px;
+	height: 36px; 
+	font-size: 0;
+}
+.imagen{
+	display: none;
+}
+#mapa{
+	display: contents;
+	margin-right: 3%;
+	margin-left: 3%;
+	
+}
+header {
+    background-image: url("../imagenes/backgroundcolor.png");
+    display: none;
+}
+#ciudad{
+	margin-left: 15%;
+    display: inline-block;
+    margin-bottom: 10%;
+    margin-top: 10%;
+    float: revert;
+	
+}
+.ultimotextoindex{
+width: auto;
+}
+#texto2{
+	width: 100%;
+}
+span{
+display: table-cell;
+}
+textarea{
+	display: table-cell;
+	width: 200px;
+}
+label{
+	display: block;
+	text-align: initial;
+}
+.granimagenes2{
+	text-align: center;
+	display: table;
+	margin-left: 15%;
+	margin-right: 25%;
+	margin-top: 4%;
+}
+.textop1{
+	text-align: inherit;
+	width: 93%;
+}
+.precio{
+	margin-right: -5%;
+    margin-top: -13%;
+}
+.imgreservas{
+	display: table-caption;
+    margin-left: 40%;
+	margin-top: -20%;
+	
+}
+.monedita{
+	margin-left: 18%;
+    display: flex;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    float: revert;
+}
+
+.img22{
+    margin-left: 3%;
+    display: inline-block;
+    margin-bottom: 10%;
+    margin-top: 10%;
+    float: revert;
+}
+
+.texto{
+	width: 93%;
+}
+.granimagenes{
+	display: flex;
+	margin-bottom: 3%;
+	margin-left: 5%;
+	margin-right: 5%;
+	height: 230px;
+	width: 200px;
+}
+.cajas{
+	margin-bottom: 10%;
+}
+.cajas2{
+	margin-bottom: 5%;
+    margin-top: 5%;
+}
+form{
+	margin-left: 2%;
+	width: 375px;
+}
+footer{
+	margin-left: 2%;
+	width: 89%;
+}
+#iconos{display:none}
+#iconosmobile{
+	display: block;
+	background-image: url("../imagenes/iconosmobile.png");
+	background: no-repeat;
+	text-align: center;
+  }
+  #dentro{
+	width: 50%;
+	margin: 10px;
+	display: inline-block;
+    text-align: center;
+  }
+  #colores{
+	margin-bottom: 2%;
+    margin-top: 2%;
+	width: 89%;
+    padding: 1%;
+    text-align: center;
+    margin-left: 2%;
+  }
