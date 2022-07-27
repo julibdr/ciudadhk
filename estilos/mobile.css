@@ -48,6 +48,7 @@ display: none;
 	height: 36px; 
 	display:inline-block;
 	text-align: center;
+	margin-left: 30px;
 }
 .imagen{
 	display: none;
@@ -86,10 +87,8 @@ label{
 	text-align: initial;
 }
 .granimagenes2{
-	text-align: center;
 	display: table;
-	margin-left: 15%;
-	margin-right: 25%;
+	margin-left: 17%;
 	margin-top: 4%;
 }
 .textop1{
@@ -125,12 +124,10 @@ label{
 	width: 93%;
 }
 .granimagenes{
-	display: flex;
-	margin-bottom: 3%;
-	margin-left: 5%;
-	margin-right: 5%;
-	height: 230px;
-	width: 200px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	
 }
 .cajas{
 	margin-bottom: 10%;
