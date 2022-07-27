@@ -1,0 +1,7 @@
+header {
+    background-image: url("../imagenes/backgroundcolor.png");
+    display: block;
+}
+span{
+    display: table-cell;
+    }

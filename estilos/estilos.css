@@ -331,6 +331,7 @@ input{
  padding: 4px;
 }
 .img22{ 
+  float: right;
   width: 35%;
   margin-right: 3%;
 }

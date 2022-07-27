@@ -64,7 +64,7 @@ header {
     display: none;
 }
 #ciudad{
-	margin-left: 15%;
+	margin-left: 8%;
     display: inline-block;
     margin-bottom: 10%;
     margin-top: 10%;	
@@ -106,18 +106,11 @@ label{
 	
 }
 .monedita{
-	margin-left: 18%;
-    display: flex;
-    margin-bottom: 5%;
-    margin-top: 5%;
-    float: revert;
+	display: none;
 }
 
 .img22{
-    margin-left: 3%;
-    display: inline-block;
-    margin-bottom: 10%;
-    margin-top: 10%;
+    display: none;
 }
 
 .texto{
@@ -138,7 +131,7 @@ label{
 }
 form{
 	margin-left: 2%;
-	width: 375px;
+	width: 310px;
 }
 footer{
 	margin-left: 2%;
@@ -165,4 +158,9 @@ footer{
     text-align: center;
     margin-left: 2%;
   }
-  
+  iframe {
+    width: 333px;
+    height: 300px;
+    margin: 15px;
+    margin-left: 3%;
+  }
