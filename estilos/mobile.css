@@ -50,6 +50,7 @@ display: none;
 	text-align: center;
 	margin-left: 30px;
 }
+
 .imagen{
 	display: none;
 }
@@ -133,7 +134,7 @@ label{
 }
 form{
 	margin-left: 2%;
-	width: 375px;
+	width: 315px;
 }
 footer{
 	margin-left: 2%;
@@ -161,7 +162,7 @@ footer{
     margin-left: 2%;
   }
   iframe {
-	width: 400px;
+	width: 315px;
     height: 300px;
     margin: 15px;
     margin-left: 2%;
