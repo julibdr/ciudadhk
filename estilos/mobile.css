@@ -167,6 +167,6 @@ footer{
     margin: 15px;
     margin-left: 2%;
   }
-  .modal{
+  #miModal{
 	display: none;
   }
